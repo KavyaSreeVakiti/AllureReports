@@ -16,3 +16,4 @@ import org.testng.annotations.Test;
 public class AllureReports extends AbstractTestNGCucumberTests
 {
 }
+// Git successful
